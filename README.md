@@ -26,7 +26,7 @@ In this section, I will outline the coding challenges I encounter each day, incl
 
 ### Day 1:
 - **Question:** Write a program to print a statement.
-- **Solution:** Simple print statement in Python.
+- **Solution:** Simple print statement in Python. [python](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
 - **Learnings:** Basic syntax and output.
 
 ### Day 2:
