@@ -7,30 +7,50 @@ Welcome to my **120 Days of Python Coding Challenge** repository! 🚀
 This repository serves as a daily log of my journey through Python programming. Over the next 120 days, I will tackle various coding challenges, explore new concepts, and create projects to enhance my skills. The goal is to build a strong foundation in Python and data engineering principles.
 
 ## What to Expect
+- [Introduction](#introduction)
+- [Daily Progress](#daily-progress)
+- [Daily Questions](#daily-questions)
+- [Technologies Used](#technologies-used)
+- [Connect with Me](#connect-with-me)
 
-- **Daily Challenges:** Each day's challenge will focus on a specific Python concept or problem.
-- **Code Examples:** Solutions will include clear, well-documented code snippets.
-- **Projects:** Mini-applications and projects demonstrating practical applications of Python.
-- **Learning Resources:** Links to tutorials, documentation, and articles related to the topics covered.
+## Introduction
+The **120 Days of Python Coding Challenge** is a structured program designed to help participants improve my coding skills through consistent practice and exploration of Python concepts. Over the next 120 days, I will be solving various coding problems and building projects.
 
-## Structure
 
-The repository is organized by day, with each day's folder containing:
-- `day_x.py`: The main Python script for that day's challenge.
-- `README.md`: A brief overview of the day's challenge and key takeaways.
-- Any additional resources or files needed for that day.
 
-## How to Contribute
+## Daily Progress
+Throughout the challenge, I will document my daily progress in this repository. Each day's work will be organized in separate folders with detailed notes, solutions, and any additional resources I find helpful.
 
-Feel free to fork the repository and add your own challenges or improvements! Contributions are welcome, and I appreciate any feedback.
+## Daily Questions
+Here, I will document the questions or challenges I face each day, along with my solutions and thought processes. This section will serve as a reflection of my learning journey and help me track my growth.
 
-## Follow Along
+### Day 1:
+- **Question:** Write a program to print a statement.
+- **Solution:** Simple print statement in Python.
+- **Learnings:** Basic syntax and output.
 
-You can follow my progress on LinkedIn and other social platforms. Let's learn together and grow our skills in Python and data engineering!
+### Day 2:
+- **Question:** Write a program to assign a value to a variable.
+- **Solution:** Variable assignment in Python.
+- **Learnings:** Understanding variables and data types.
 
-## License
+### Day 3:
+- **Question:** Write a program to add two numbers.
+- **Solution:** Addition using user input.
+- **Learnings:** Input handling and arithmetic operations.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Question:** Write a program to find the square root.
+- **Solution:** Square root calculation using `**`.
+- **Learnings:** Mathematical operations and functions.
+
+*... Continue adding daily questions, solutions, and learnings as you progress ...*
+
+## Technologies Used
+- **Programming Language:** Python 
+- **Tools:** Git, GitHub, Visual Studio Code, IDLE
+
+## Connect with Me
+Find out more about my journey and connect with me on [LinkedIn](www.linkedin.com/in/ankithkumar-chillapalli).
 
 ---
 
