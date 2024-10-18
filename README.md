@@ -41,7 +41,7 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - 
 
 - **Question:** Write a program to find the square root.
-- **Solution:** Square root calculation using `**`.[Code(https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
+- **Solution:** Square root calculation using `**`.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
 - **Learnings:** Mathematical operations and functions.
 
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
