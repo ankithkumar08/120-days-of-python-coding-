@@ -26,21 +26,22 @@ In this section, I will outline the coding challenges I encounter each day, incl
 
 ### Day 1:
 - **Question:** Write a program to print a statement.
-- **Solution:** Simple print statement in Python. [python](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
+- **Solution:** Simple print statement in Python. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
 - **Learnings:** Basic syntax and output.
 
 ### Day 2:
 - **Question:** Write a program to assign a value to a variable.
-- **Solution:** Variable assignment in Python.
+- **Solution:** Variable assignment in Python.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
 - **Learnings:** Understanding variables and data types.
 
 ### Day 3:
 - **Question:** Write a program to add two numbers.
-- **Solution:** Addition using user input.
+- **Solution:** Addition using user input.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
 - **Learnings:** Input handling and arithmetic operations.
+- 
 
 - **Question:** Write a program to find the square root.
-- **Solution:** Square root calculation using `**`.
+- **Solution:** Square root calculation using `**`.[Code(https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
 - **Learnings:** Mathematical operations and functions.
 
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
