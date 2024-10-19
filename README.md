@@ -50,8 +50,9 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Learnings:** Conditional statements (if-else) and modulus operator %
   
 - **Question:** Write a Python program to check if a number is positive, negative, or zero.
-- **Solution:**Using conditional statements to check the sign of a number.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day4.py)
+- **Solution:** Using conditional statements to check the sign of a number.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day4.py)
 - **Learnings:** Multiple conditions with elif and handling input.
+- 
   
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
