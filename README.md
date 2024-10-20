@@ -48,7 +48,7 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a Python program to check if a number is odd or even.
 - **Solution:** Checking if a number is divisible by 2 to determine if it is odd or even..[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day4.py)
 - **Learnings:** Conditional statements (if-else) and modulus operator %
-  
+- 
 - **Question:** Write a Python program to check if a number is positive, negative, or zero.
 - **Solution:** Using conditional statements to check the sign of a number.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day4.py)
 - **Learnings:** Multiple conditions with elif and handling input.
