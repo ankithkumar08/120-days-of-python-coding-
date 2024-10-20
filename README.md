@@ -52,7 +52,16 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a Python program to check if a number is positive, negative, or zero.
 - **Solution:** Using conditional statements to check the sign of a number.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day4.py)
 - **Learnings:** Multiple conditions with elif and handling input.
+
+  ### Day 5:
+- **Question:** Write a Python program to check if a year is a leap year.
+- **Solution:** Checking divisibility by 4, 100, and 400 using a function to determine if a year is a leap year.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day5.py)
+- **Learnings:** Understanding logical operators and modular arithmetic in Python.
 - 
+- **Question:** Write a Python program to find the largest among three numbers.
+- **Solution:** Using conditional statements to compare three numbers and find the largest.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day5.py)
+- **Learnings:** Handling multiple conditions with if-elif-else and user input for numerical comparisons.
+
   
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
