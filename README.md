@@ -62,17 +62,17 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Solution:** Using conditional statements to compare three numbers and find the largest.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day5.py)
 - **Learnings:** Handling multiple conditions with if-elif-else and user input for numerical comparisons.
 ### Day 6:
-- **Question:** Write a program to print a statement.
-- **Solution:** Simple print statement in Python. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
-- **Learnings:** Basic syntax and output.
+- **Question:** Write a program to check if a number is prime using functions.
+- **Solution:** Prime number check using a function.  [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day6.py)
+- **Learnings:** Explored function definitions, conditionals, and loop structures for checking prime numbers and how to use flag variables to manage logic and control flow in loops.
 ### Day 7:
-- **Question:** Write a program to print a statement.
-- **Solution:** Simple print statement in Python. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
-- **Learnings:** Basic syntax and output.
+- **Question:** Write a program to find the factorial of a number using loops.
+- **Solution:** Factorial calculation using a for loop. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day7.py)
+- **Learnings:** Practiced looping constructs and conditional checks to calculate the factorial of a number.
 ### Day 8:
-- **Question:** Write a program to print a statement.
-- **Solution:** Simple print statement in Python. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
-- **Learnings:** Basic syntax and output.
+- **Question:** Write a program to print the Fibonacci sequence up to the n-th term.
+- **Solution:** Fibonacci sequence generation using a while loop. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day8.py)
+- **Learnings:**  Practiced working with loops and sequence generation. Learned about the Fibonacci series and how to calculate it iteratively.
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
 ## Technologies Used 
