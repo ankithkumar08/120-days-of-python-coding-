@@ -61,8 +61,18 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a Python program to find the largest among three numbers.
 - **Solution:** Using conditional statements to compare three numbers and find the largest.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day5.py)
 - **Learnings:** Handling multiple conditions with if-elif-else and user input for numerical comparisons.
-
-  
+### Day 6:
+- **Question:** Write a program to print a statement.
+- **Solution:** Simple print statement in Python. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
+- **Learnings:** Basic syntax and output.
+### Day 7:
+- **Question:** Write a program to print a statement.
+- **Solution:** Simple print statement in Python. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
+- **Learnings:** Basic syntax and output.
+### Day 8:
+- **Question:** Write a program to print a statement.
+- **Solution:** Simple print statement in Python. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day1.py)
+- **Learnings:** Basic syntax and output.
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
 ## Technologies Used 
