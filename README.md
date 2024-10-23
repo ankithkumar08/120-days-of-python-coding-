@@ -73,6 +73,8 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a program to print the Fibonacci sequence up to the n-th term.
 - **Solution:** Fibonacci sequence generation using a while loop. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day8.py)
 - **Learnings:**  Practiced working with loops and sequence generation. Learned about the Fibonacci series and how to calculate it iteratively.
+  
+
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
 ## Technologies Used 
