@@ -90,4 +90,4 @@ Find out more about my journey and connect with me on [LinkedIn](www.linkedin.co
 
 ---
 
-Thank you for checking out my repository! Let’s code together! 🐍
+## Thank you for checking out my repository! Let’s code together! 🐍
