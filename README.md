@@ -78,6 +78,11 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a program to check if a number is an Armstrong number.
 - **Solution:** Armstrong number check using functions and loops. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day9.py)
 - **Learnings:**   Practiced using loops and functions to check for Armstrong numbers and understood the concept behind it.
+
+   ### Day 10:
+- **Question:** Write a program to check if a number is an Armstrong number.
+- **Solution:** Armstrong number check using functions and loops. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day9.py)
+- **Learnings:**   Practiced using loops and functions to check for Armstrong numbers and understood the concept behind it.
   
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
