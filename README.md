@@ -85,9 +85,9 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Learnings:**   Practiced using loops and functions to check for Armstrong numbers and understood the concept behind it.
 
 -  ### Day 11:
-- **Question:** Write a program to check if a number is an Armstrong number.
-- **Solution:** Armstrong number check using functions and loops. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day11.py)
-- **Learnings:**   Practiced using loops and functions to check for Armstrong numbers and understood the concept behind it.
+- **Question:** Write a program to calculate the sum of natural numbers up to a user-defined value.
+- **Solution:** Practiced using loops to sum natural numbers based on user input. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day11.py)
+- **Learnings:**  Gained insight into user input management and iterative summation techniques.
   
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
