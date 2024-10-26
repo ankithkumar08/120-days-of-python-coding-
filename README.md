@@ -88,6 +88,11 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a program to calculate the sum of natural numbers up to a user-defined value.
 - **Solution:** Practiced using loops to sum natural numbers based on user input. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day11.py)
 - **Learnings:**  Gained insight into user input management and iterative summation techniques.
+
+  ### Day 12:
+- **Question:** Write a program to calculate the sum of natural numbers up to a user-defined value.
+- **Solution:** Practiced using loops to sum natural numbers based on user input. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day12.py)
+- **Learnings:**  Gained insight into user input management and iterative summation techniques.
   
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
