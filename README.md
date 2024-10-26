@@ -81,17 +81,17 @@ In this section, I will outline the coding challenges I encounter each day, incl
 
    ### Day 10:
 - **Question:** Write a program to check if a number is an Armstrong number.
-- **Solution:** Armstrong number check using functions and loops. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day10.py)
+- **Solution:** Armstrong number check using functions and loops. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_10.py)
 - **Learnings:**   Practiced using loops and functions to check for Armstrong numbers and understood the concept behind it.
 
 -  ### Day 11:
 - **Question:** Write a program to calculate the sum of natural numbers up to a user-defined value.
-- **Solution:** Practiced using loops to sum natural numbers based on user input. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day11.py)
+- **Solution:** Practiced using loops to sum natural numbers based on user input. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_11.py)
 - **Learnings:**  Gained insight into user input management and iterative summation techniques.
 
   ### Day 12:
 - **Question:**Write a Python program to display powers of a number using an anonymous function (lambda).
-- **Solution:**  Used a lambda function with map() to calculate powers of a base number up to a specified number of terms. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day12.py)
+- **Solution:**  Used a lambda function with map() to calculate powers of a base number up to a specified number of terms. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_12.py)
 - **Learnings:**  Practiced efficient use of lambda and map() for streamlined calculations in Python.
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
