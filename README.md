@@ -93,6 +93,11 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:**Write a Python program to display powers of a number using an anonymous function (lambda).
 - **Solution:**  Used a lambda function with map() to calculate powers of a base number up to a specified number of terms. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_12.py)
 - **Learnings:**  Practiced efficient use of lambda and map() for streamlined calculations in Python.
+
+- ### Day 13:
+- **Question:**Write a Python program to display powers of a number using an anonymous function (lambda).
+- **Solution:**  Used a lambda function with map() to calculate powers of a base number up to a specified number of terms. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_13.py)
+- **Learnings:**  Practiced efficient use of lambda and map() for streamlined calculations in Python.
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
 ## Technologies Used 
