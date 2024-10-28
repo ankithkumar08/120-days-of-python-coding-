@@ -98,6 +98,12 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a Python program to find numbers divisible by another number.
 - **Solution:**  Used both enumerate with for loop and lambda functions for filtering divisibility. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_13.py)
 - **Learnings:**  Practiced using lambda functions and enumerate for efficient coding.
+  
+- ### Day 14:
+- **Question:** Write a Python program to find numbers divisible by another number.
+- **Solution:**  Used both enumerate with for loop and lambda functions for filtering divisibility. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_14.py)
+- **Learnings:**  Practiced using lambda functions and enumerate for efficient coding.
+
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
 
 ## Technologies Used 
