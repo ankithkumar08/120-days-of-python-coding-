@@ -100,13 +100,13 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Learnings:**  Practiced using lambda functions and enumerate for efficient coding.
   
 - ### Day 14:
-- **Question:** Write a Python program to find numbers divisible by another number.
-- **Solution:**  Used both enumerate with for loop and lambda functions for filtering divisibility. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_14.py)
-- **Learnings:**  Practiced using lambda functions and enumerate for efficient coding.
-
+- **Question:** Write a Python program to convert a decimal number to binary.
+- **Solution:**  Write a Python program to convert a decimal number to binary.  [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_14.py)
+- **Learnings:**  Practiced recursion and explored Python’s built-in bin() function for efficient and readable code.
+  
 - - ### Day 15:
 - **Question:** Write a Python program to find numbers divisible by another number.
-- **Solution:**  Used both enumerate with for loop and lambda functions for filtering divisibility. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_15.py)
+- **Solution:**  Write a Python program to convert a decimal number to binary. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_15.py)
 - **Learnings:**  Practiced using lambda functions and enumerate for efficient coding.
 
 
