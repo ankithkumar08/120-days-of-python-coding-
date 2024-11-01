@@ -105,10 +105,22 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Solution:**  Write a Python program to convert a decimal number to binary.  [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_14.py)
 - **Learnings:**  Practiced recursion and explored Python’s built-in bin() function for efficient and readable code.
   
-- - ### Day 15:
+-  ### Day 15:
 - **Question:** Write a Python program to find the factors of a given number.
 - **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_15.py)
 - **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
+
+-  ### Day 16:
+- **Question:** Write a Python program to find the factors of a given number.
+- **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_16.py)
+- **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
+
+- - ### Day 17:
+- **Question:** Write a Python program to find the factors of a given number.
+- **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_17.py)
+- **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
+
+
 
 
   
