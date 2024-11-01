@@ -111,9 +111,9 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
 
 -  ### Day 16:
-- **Question:** Write a Python program to find the factors of a given number.
-- **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_16.py)
-- **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
+- **Question:** Write a Python program to perform basic calculator operations.
+- **Solution:** Built a calculator to add, subtract, multiply, or divide numbers. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_16.py)
+- **Learnings:** Practiced conditionals, loops, and input validation.
 
 - - ### Day 17:
 - **Question:** Write a Python program to find the factors of a given number.
