@@ -39,7 +39,7 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a program to add two numbers.
 - **Solution:** Addition using user input.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day3.py)
 - **Learnings:** Input handling and arithmetic operations.
-- 
+ 
 
 - **Question:** Write a program to find the square root.
 - **Solution:** Square root calculation using `**`.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day3.py)
@@ -49,16 +49,16 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Question:** Write a Python program to check if a number is odd or even.
 - **Solution:** Checking if a number is divisible by 2 to determine if it is odd or even..[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day4.py)
 - **Learnings:** Conditional statements (if-else) and modulus operator %
-- 
+ 
 - **Question:** Write a Python program to check if a number is positive, negative, or zero.
 - **Solution:** Using conditional statements to check the sign of a number.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day4.py)
 - **Learnings:** Multiple conditions with elif and handling input.
 
-  ### Day 5:
+### Day 5:
 - **Question:** Write a Python program to check if a year is a leap year.
 - **Solution:** Checking divisibility by 4, 100, and 400 using a function to determine if a year is a leap year.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day5.py)
 - **Learnings:** Understanding logical operators and modular arithmetic in Python.
-- 
+ 
 - **Question:** Write a Python program to find the largest among three numbers.
 - **Solution:** Using conditional statements to compare three numbers and find the largest.[Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day5.py)
 - **Learnings:** Handling multiple conditions with if-elif-else and user input for numerical comparisons.
@@ -75,57 +75,57 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Solution:** Fibonacci sequence generation using a while loop. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day8.py)
 - **Learnings:**  Practiced working with loops and sequence generation. Learned about the Fibonacci series and how to calculate it iteratively.
 
-  ### Day 9:
+### Day 9:
 - **Question:** Write a program to check if a number is an Armstrong number.
 - **Solution:** Armstrong number check using functions and loops. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day9.py)
 - **Learnings:**   Practiced using loops and functions to check for Armstrong numbers and understood the concept behind it.
 
-   ### Day 10:
+### Day 10:
 - **Question:** Write a program to check if a number is an Armstrong number.
 - **Solution:** Armstrong number check using functions and loops. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_10.py)
 - **Learnings:**   Practiced using loops and functions to check for Armstrong numbers and understood the concept behind it.
 
--  ### Day 11:
+### Day 11:
 - **Question:** Write a program to calculate the sum of natural numbers up to a user-defined value.
 - **Solution:** Practiced using loops to sum natural numbers based on user input. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_11.py)
 - **Learnings:**  Gained insight into user input management and iterative summation techniques.
 
-  ### Day 12:
+### Day 12:
 - **Question:** Write a Python program to display powers of a number using an anonymous function (lambda).
 - **Solution:**  Used a lambda function with map() to calculate powers of a base number up to a specified number of terms. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_12.py)
 - **Learnings:**  Practiced efficient use of lambda and map() for streamlined calculations in Python.
 
-- ### Day 13:
+### Day 13:
 - **Question:** Write a Python program to find numbers divisible by another number.
 - **Solution:**  Used both enumerate with for loop and lambda functions for filtering divisibility. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_13.py)
 - **Learnings:**  Practiced using lambda functions and enumerate for efficient coding.
   
-- ### Day 14:
+### Day 14:
 - **Question:** Write a Python program to convert a decimal number to binary.
 - **Solution:**  Write a Python program to convert a decimal number to binary.  [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_14.py)
 - **Learnings:**  Practiced recursion and explored Python’s built-in bin() function for efficient and readable code.
-  
--  ### Day 15:
+
+### Day 15:
 - **Question:** Write a Python program to find the factors of a given number.
 - **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_15.py)
 - **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
 
--  ### Day 16:
+### Day 16:
 - **Question:** Write a Python program to perform basic calculator operations.
 - **Solution:** Built a calculator to add, subtract, multiply, or divide numbers. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_16.py)
 - **Learnings:** Practiced conditionals, loops, and input validation.
 
--  ### Day 17:
+### Day 17:
 - **Question:** Write a Python program to find the factors of a given number.
 - **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_17.py)
 - **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
 
--  ### Day 18:
+### Day 18:
 - **Question:** Write a Python program to find the factors of a given number.
 - **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_17.py)
 - **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
 
--  ### Day 19:
+### Day 19:
 - **Question:** Write a Python program to find the factors of a given number.
 - **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_17.py)
 - **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
