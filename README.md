@@ -122,15 +122,13 @@ In this section, I will outline the coding challenges I encounter each day, incl
 
 ### Day 18:
 - **Question:** Write a Python program to find the factors of a given number.
-- **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_17.py)
+- **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_18.py)
 - **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
 
 ### Day 19:
-- **Question:** Write a Python program to find the factors of a given number.
-- **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_17.py)
-- **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
-
-
+- **Question:** Write a Python program Find the ASCII value of a given character.
+- **Solution:** Developed a program to input a character and display its ASCII value using the ord() function. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_19.py)
+- **Learnings:** Enhanced skills in user input handling and character encoding concepts.
 
 
   
