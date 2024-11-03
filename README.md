@@ -130,6 +130,11 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Solution:** Developed a program to input a character and display its ASCII value using the ord() function. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_19.py)
 - **Learnings:** Enhanced skills in user input handling and character encoding concepts.
 
+### Day 20:
+- **Question:** Write a Python program Find the ASCII value of a given character.
+- **Solution:** Developed a program to input a character and display its ASCII value using the ord() function. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_20.py)
+- **Learnings:** Enhanced skills in user input handling and character encoding concepts.
+
 
   
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
