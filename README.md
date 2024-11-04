@@ -135,6 +135,11 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Solution:** Developed a program to input a character and display its ASCII value using the ord() function. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_20.py)
 - **Learnings:** Enhanced skills in user input handling and character encoding concepts.
 
+### Day 21:
+- **Question:** Write a Python program to display the month of a given year.
+- **Solution:** Created a program using the calendar module to show a specific month for a given year. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_17.py)
+- **Learnings:**   Gained experience with modules and user input handling.
+
 
   
 *... Continue adding daily questions, solutions, and learnings as you progress ...*
