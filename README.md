@@ -121,9 +121,9 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Learnings:**   Gained experience with modules and user input handling.
 
 ### Day 18:
-- **Question:** Write a Python program to find the factors of a given number.
-- **Solution:** A program that displays all factors of a user-defined number. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_18.py)
-- **Learnings:**   Practiced loops and conditionals, enhancing my understanding of efficient iteration in Python.
+- **Question:**  Write a Python program to add two matrices.
+- **Solution:** Used nested loops to add corresponding elements of two matrices. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_18.py)
+- **Learnings:**   Gained practice in matrix addition and handling nested loops.
 
 ### Day 19:
 - **Question:** Write a Python program Find the ASCII value of a given character.
