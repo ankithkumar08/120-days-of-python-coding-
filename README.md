@@ -150,6 +150,18 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Solution:** Used Python string methods to reverse the string and check if it matches the original, ignoring case. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_23.py)
 - **Learnings:** Strengthened my skills in string manipulation and explored different methods for reversing a string in Python.
 
+### Day 24:
+- **Question:** Write a Python program to check whether a string is a Palindrome.
+- **Solution:** Used Python string methods to reverse the string and check if it matches the original, ignoring case. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_24.py)
+- **Learnings:** Strengthened my skills in string manipulation and explored different methods for reversing a string in Python.
+- 
+### Day 25:
+- **Question:** Write a Python program to check whether a string is a Palindrome.
+- **Solution:** Used Python string methods to reverse the string and check if it matches the original, ignoring case. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_25.py)
+- **Learnings:** Strengthened my skills in string manipulation and explored different methods for reversing a string in Python.
+
+
+
 ## Technologies Used 
 - **Programming Language:** Python 
 - **Tools:** Git, GitHub, Visual Studio Code, IDLE
