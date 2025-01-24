@@ -177,7 +177,7 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Tools:** Git, GitHub, Visual Studio Code, IDLE
 
 ## Connect with Me
-Find out more about my journey and connect with me on [LinkedIn](www.linkedin.com/in/ankithkumar-chillapalli).
+Find out more about my journey and connect with me on [LinkedIn](https://www.linkedin.com/in/ankithkumar08-data-analyst).
 
 ---
 
