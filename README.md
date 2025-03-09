@@ -152,23 +152,23 @@ In this section, I will outline the coding challenges I encounter each day, incl
 
 ### Day 24:
 - **Question:** Write a Python program to check whether a string is a Palindrome.
-- **Solution:** Used Python string methods to reverse the string and check if it matches the original, ignoring case. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_24.py)
+- **Solution:** Used a predefined set of punctuation characters and iterated through the input string, constructing a new string without punctuation. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_25.py)
 - **Learnings:** Strengthened my skills in string manipulation and explored different methods for reversing a string in Python.
 - 
 ### Day 25:
-- **Question:** Write a Python program to check whether a string is a Palindrome.
+- **Question:** Write a Python program to remove punctuations from a given string.
 - **Solution:** Used Python string methods to reverse the string and check if it matches the original, ignoring case. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_25.py)
-- **Learnings:** Strengthened my skills in string manipulation and explored different methods for reversing a string in Python.
+- **Learnings:** Improved my understanding of string manipulation and filtering techniques in Python. Explored how to efficiently remove unwanted characters using loops.
 
 ### Day 26:
-- **Question:** Write a Python program to check whether a string is a Palindrome.
-- **Solution:** Used Python string methods to reverse the string and check if it matches the original, ignoring case. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_26.py)
-- **Learnings:** Strengthened my skills in string manipulation and explored different methods for reversing a string in Python.
-
-  ### Day 27:
-- **Question:** Write a Python program to check whether a string is a Palindrome.
-- **Solution:** Used Python string methods to reverse the string and check if it matches the original, ignoring case. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_27.py)
-- **Learnings:** Strengthened my skills in string manipulation and explored different methods for reversing a string in Python.
+- **Question:** Write a Python program to sort words in a string in alphabetical order.
+- **Solution:**Used Python's split() method to break the string into words, converted them to lowercase for uniformity, and then sorted them using the sort() method. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_26.py)
+- **Learnings:** Strengthened my understanding of string manipulation and list operations. Explored how sorting works in Python and how case sensitivity affects sorting results.
+  
+### Day 27:
+- **Question:** Write a Python program to count the number of vowels in a given string.
+- **Solution:** Used a dictionary to store vowel counts, converted the string to lowercase using casefold(), and iterated through each character to update the count. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_27.py)
+- **Learnings:** Enhanced my knowledge of dictionaries in Python and how they can be used for counting occurrences. Explored the importance of case handling in string operations.
 
 
 
