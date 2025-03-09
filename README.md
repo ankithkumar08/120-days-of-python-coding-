@@ -170,6 +170,58 @@ In this section, I will outline the coding challenges I encounter each day, incl
 - **Solution:** Used a dictionary to store vowel counts, converted the string to lowercase using casefold(), and iterated through each character to update the count. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_27.py)
 - **Learnings:** Enhanced my knowledge of dictionaries in Python and how they can be used for counting occurrences. Explored the importance of case handling in string operations.
 
+### Day 28:
+- **Question:** Write a Python program to print different star patterns based on user input.
+- **Solution:**  Implemented three different patterns using loops: a right-angled triangle, a pyramid, and an inverted pyramid. Used nested loops and string multiplication for efficient pattern generation. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_28.py)
+- **Learnings:** Strengthened my understanding of nested loops and string manipulation for pattern printing. Explored how spaces and asterisks can be dynamically adjusted to create symmetrical designs.
+
+### Day 29:
+- **Question:** Write a Python program to demonstrate different types of list slicing operations.
+- **Solution:**  Used Python’s slicing syntax to extract various sublists, including full list slicing, slicing from a specific index, slicing with step values, and reverse slicing. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_29.py)
+- **Learnings:** Improved my understanding of list slicing techniques and how step values work in Python. Explored how negative step values can be used to reverse a list or skip elements efficiently.
+
+### Day 30:
+- **Question:** Write a Python program to check if a list is empty.
+- **Solution:** Implemented multiple ways to check if a list is empty, including checking its length using len(), using a direct comparison with an empty list [], and leveraging Python's truthy/falsy nature of empty lists. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_30.py)
+- **Learnings:** Explored different approaches to check for empty lists in Python. Learned that an empty list evaluates to False in a boolean context, making if not my_list: a more Pythonic way to check for emptiness.
+
+### Day 31:
+- **Question:** Write a Python program to merge two lists
+- **Solution:**  Explored three different ways to concatenate lists: using the + operator, unpacking with *, and using the extend() method to modify a list in place. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_31.py)
+- **Learnings:** Learned various techniques for merging lists efficiently. Understood the difference between creating a new list (+ and * unpacking) versus modifying an existing list (extend()).
+
+
+### Day 32:
+- **Question:** Write a Python program to iterate through a list with index and value.
+- **Solution:**  Used two different approaches to iterate through a list while keeping track of both the index and the value: one using enumerate() and the other using a for loop with range(len(my_list)). [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_32.py)
+- **Learnings:**Learned the advantages of using enumerate(), which provides a cleaner and more Pythonic way to iterate through a list with indices. Also reinforced the traditional range(len()) approach for cases where direct index manipulation is needed.
+
+### Day 33:
+- **Question:** Write a Python program to merge two dictionaries
+- **Solution:**  Explored three different ways to merge dictionaries: using the | operator (Python 3.9+), dictionary unpacking with **, and the update() method to modify a dictionary in place. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_33.py)
+- **Learnings:** Learned multiple techniques for combining dictionaries and how they handle key conflicts (values from the second dictionary override those in the first). Understood the difference between creating a new dictionary (| and ** unpacking) and modifying an existing one (update()).
+
+### Day 34:
+- **Question:** Write a Python program to perform set operations like union, intersection, difference, and symmetric difference.
+- **Solution:**  Used Python's set operators to compute various set operations: | for union, & for intersection, - for difference, and ^ for symmetric difference. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_34.py)
+- **Learnings:** Strengthened my understanding of set operations in Python. Learned how sets efficiently handle unique elements and how different operations can be used for filtering and combining data.
+
+### Day 35:
+- **Question:** Write a Python program to sort a dictionary by its values.
+- **Solution:** Used sorted() to first extract and sort dictionary values separately, then applied dictionary comprehension with sorted(dt.items(), key=lambda item: item[1]) to sort the dictionary by values. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_35.py)
+- **Learnings:**  Learned how to sort dictionaries based on values rather than keys. Explored the use of lambda functions within the sorted() method and how dictionary comprehension helps in creating a sorted dictionary efficiently.
+
+### Day 36:
+- **Question:** Write a Python program to check if a key exists in a dictionary.
+- **Solution:** Used the in operator to check whether a specific key is present in the dictionary and printed the result accordingly. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_36.py)
+- **Learnings:**  Learned that checking for a key in a dictionary using in is an efficient and Pythonic approach. Explored how dictionaries offer fast lookups compared to lists due to their underlying hash table structure.
+
+### Day 37:
+- **Question:** Write a Python program to remove duplicates from a list and find unique elements between two lists.
+- **Solution:** Used set() to remove duplicates from a list and the symmetric difference operator ^ to find unique elements between two lists. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_37.py)
+- **Learnings:**  Explored how sets automatically remove duplicates and provide efficient operations for comparing lists. Learned that the symmetric difference ^ returns elements that are in either of the two sets but not in both.
+  
+
 
 
 ## Technologies Used 
