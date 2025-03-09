@@ -31,3 +31,11 @@ if S==s:
     print("given string is a palendrome")
 else:
     print("the given string is not a palendrome")
+
+
+#without using if else
+
+def is_palindrome(s):
+    return (s == s[::-1]) * "Given string is a Palindrome" + (s != s[::-1]) * "Given string is Not a Palindrome"
+s = input("Enter the string  to check the palindrome:")
+print(is_palindrome(s))
