@@ -162,7 +162,7 @@ In this section, I will outline the coding challenges I encounter each day, incl
 
 ### Day 26:
 - **Question:** Write a Python program to sort words in a string in alphabetical order.
-- **Solution:**Used Python's split() method to break the string into words, converted them to lowercase for uniformity, and then sorted them using the sort() method. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_26.py)
+- **Solution:** Used Python's split() method to break the string into words, converted them to lowercase for uniformity, and then sorted them using the sort() method. [Code](https://github.com/ankithkumar08/120-days-of-python-coding-/blob/main/python/day_26.py)
 - **Learnings:** Strengthened my understanding of string manipulation and list operations. Explored how sorting works in Python and how case sensitivity affects sorting results.
   
 ### Day 27:
