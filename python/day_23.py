@@ -19,3 +19,15 @@ if list(my_str) == list(rev_str):
    print("The string is a palindrome.")
 else:
    print("The string is not a palindrome.")
+
+#Methid3
+
+s = input("Enter the string  to check the palindrome:")
+S = ""
+s = s.casefold()
+for i in s:
+    S=i+S
+if S==s:
+    print("given string is a palendrome")
+else:
+    print("the given string is not a palendrome")
